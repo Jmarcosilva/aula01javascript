@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: open;
+}
+
+.laranja{
+    background-color: orangered;
+    transition: all 0.25s ease-in-out;
+}
+
+.laranja{
+    background-color: orangered;
+    transition: all 0.25s ease-in-out;
+}
+
+.Vermelho{
+    background-color: red;
+    transition: all 0.25s ease-in-out;
+}
+
+.Verde{
+    background-color: green;
+    transition: all 0.25s ease-in-out;
+}
+
+button{
+    padding: 5px 10px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 300;
+    margin: 0 10px;
+}
+
+div.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    min-width: 90vw;
+    text-align: center;
+}
